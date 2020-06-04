@@ -1,7 +1,7 @@
 Package: traliDiagnosticsPackage
 Type: Package
 Title: A Package Skeleton for Cohort Diagnostics
-Version: 0.0.1
+Version: 0.1.0
 Author: Martijn Schuemie [aut, cre]
 Maintainer: Martijn J. Schuemie <schuemie@ohdsi.org>
 Description: A skeleton package, to be used as a starting point when you just want to run cohort diagnostics.
